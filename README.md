@@ -11,3 +11,11 @@ If you have any questions about Python Crash Course, feel free to get in touch:
 Email: ehmatthes@gmail.com
 
 Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
+
+## Contributors ✨
+
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
