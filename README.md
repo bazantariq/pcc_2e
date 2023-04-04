@@ -24,7 +24,6 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
     <tr>
      Tariq Mahmood Rana
     </tr>
-    
      </tbody>
 </table>
 
